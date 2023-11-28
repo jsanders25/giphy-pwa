@@ -1,0 +1,21 @@
+{
+    "name": "GIPHY",
+    "short_name": "GIPHY",
+    "description": "My PWA App",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/favicons/giphy.gif",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/giphy.gif",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
