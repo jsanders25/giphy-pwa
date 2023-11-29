@@ -1,0 +1,14 @@
+/* Override Flex Direction */
+.carousel-item {
+    flex-direction: column;
+}
+
+/* override width */
+.container {
+    width: 100vw;
+    max-width: 100vw;
+}
+
+input {
+    border-radius: 0;
+}
